@@ -12,3 +12,8 @@ Script functionality:
 - 🔗 Ability to add links and format text
 
 - ⚙️ Simple configuration without programming knowledge
+
+Follow me on profiles
+- https://www.tiktok.com/@pitword_
+- https://www.youtube.com/@pitwordzik
+- https://www.twitch.tv/pitword_
